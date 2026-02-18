@@ -1,50 +1,12 @@
-# Welcome to your Expo app 👋
+# Welcome to your Expo app 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Taxi cal App
 
-## Get started
+<img width="127" height="281" alt="image" src="https://github.com/user-attachments/assets/a83a1c5d-562a-4433-949b-6106803706f1" />
 
-1. Install dependencies
+<img width="251" height="565" alt="image" src="https://github.com/user-attachments/assets/bf4bf149-b5aa-4f7e-9880-cdc097f8d206" />
 
-   ```bash
-   npm install
-   ```
+<img width="248" height="561" alt="image" src="https://github.com/user-attachments/assets/0c93fd43-b5e4-49a8-a1e8-10d3e3b0d77f" />
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
