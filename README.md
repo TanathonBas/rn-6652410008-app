@@ -1,8 +1,8 @@
-# Welcome to your Expo app 
+# Welcome to my Expo app 
 
 ## Taxi cal App
 
-<img width="127" height="281" alt="image" src="https://github.com/user-attachments/assets/a83a1c5d-562a-4433-949b-6106803706f1" />
+<img width="253" height="560" alt="image" src="https://github.com/user-attachments/assets/816ab443-eca7-4627-9201-ad71156b97e2" />
 
 <img width="251" height="565" alt="image" src="https://github.com/user-attachments/assets/bf4bf149-b5aa-4f7e-9880-cdc097f8d206" />
 
